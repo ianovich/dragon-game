@@ -18,4 +18,9 @@ const monsterName = document.querySelector("#monsterName");
 function goStore(){
   console.log("Going to store.");
 }
-funct
+function goCave(){
+  console.log("Going to cave.");
+}
+function fightDragon(){
+  console.log("Fighting dragon.");
+}
